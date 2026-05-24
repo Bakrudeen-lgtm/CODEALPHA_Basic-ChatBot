@@ -2,7 +2,7 @@
 
 ## Intern Details
 
-* Name: SAKTHI KUMAR KANNAN PRABHU
+* Name: MOHAMMED BAKRUDEEN.M
 * Company: CodeAlpha
 * Task: Basic Chatbot
 
